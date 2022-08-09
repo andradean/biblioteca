@@ -9,15 +9,6 @@ const listaLivros = [
     leu: true,
   },
   {
-    id: 1,
-    nome: " Dom Quixote",
-    autor: "Miguel De Cervantes",
-    categoria: "romance",
-    paginas: 1000,
-    recomenda: true,
-    leu: true,
-  },
-  {
     id: 2,
     nome: "O Senhor dos Anéis",
     autor: "J. R. R. Tolkien ",
@@ -52,6 +43,24 @@ const listaLivros = [
     paginas: 740,
     recomenda: false,
     leu: true,
+  },
+  {
+    id: 6,
+    nome: "dklsdkskdskdskdksksdks",
+    autor: "J.K kfkfkskdskd ",
+    categoria: "ciencia",
+    paginas: 777,
+    recomenda: true,
+    leu: true,
+  },
+  {
+    id: 7,
+    nome: "habla mesmo",
+    autor: "lituania ",
+    categoria: "economia",
+    paginas: 657,
+    recomenda: false,
+    leu: false,
   },
 ];
 module.exports = listaLivros;
